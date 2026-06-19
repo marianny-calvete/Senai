@@ -1,1 +1,0 @@
-nome_cid= input("Nome da sua cidade: ")
